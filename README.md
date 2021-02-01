@@ -50,10 +50,8 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 > pkg install npm
 ```
 Lalu clone repo
-```bash
-> git clone https://github.com/AgusAliansyah/vvipbot-wa
-> cd vvipbot-wa
-```
+`` pesta
+`` git clone https; // github.com/zyrexgmg/BOT-ZYREX
 Lanjutkan dengan
 ```bash
 > bash install.sh
